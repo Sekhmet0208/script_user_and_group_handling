@@ -37,7 +37,7 @@ Permissions :
 ## 🚀 Utilisation
 
 ```bash
-sudo ./setup_user.sh
+sudo ./deuz.sh
 ```
 
 ### Le script vous demandera :
@@ -72,7 +72,7 @@ sudo ./setup_user.sh
 ## 📜 Exemples d'exécution
 
 ```bash
-$ sudo ./setup_user.sh
+$ sudo ./deuz.sh
  entrez un utilisateur
 alice
  entrez un groupe
